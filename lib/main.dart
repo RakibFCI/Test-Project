@@ -55,8 +55,8 @@ class _HomePageState extends State<HomePage> {
             )
           ),
           SizedBox(
-            height: 300,
-            width: 300,
+            height: 320,
+            width: 320,
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
